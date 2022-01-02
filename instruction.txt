@@ -1,0 +1,14 @@
+ As first I was applied this task with nlp and regular_expression by python 
+extract the information from pdf resume 
+and store it in csv file whivh contain some information(Name,Email,Phone,Skils,Education)
+
+
+you must install some library before runing
+command:
+pip install pdfminer.six
+pip install nltk
+pip install numpy
+
+Start Date :18/12/2020
+
+
